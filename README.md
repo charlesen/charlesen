@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Photo de profil](profile_picture.jpg)
+![Photo de profil](profile_picture_md.jpg)
 My name's Charles, software engineer, Web trainer and Blogger (personal finance, coaching, ...)
 
 <!--
