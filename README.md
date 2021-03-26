@@ -37,7 +37,7 @@ I'm Charles, software engineer, Web trainer and Blogger (personal finance, coach
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charlesen&repo=yanis&theme=tokyonight" />
 </a>
 
-![Les statistiques de charlesen sur github](https://github-readme-stats.vercel.app/api?username=charlesen&show_icons=true&hide=["prs","issues","contribs"])
+![Les statistiques de charlesen sur github](https://github-readme-stats.vercel.app/api?username=charlesen&show_icons=true)
 
 <p> 
 
