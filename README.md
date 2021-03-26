@@ -37,6 +37,14 @@ I'm Charles, software engineer, Web trainer and Blogger (personal finance, coach
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charlesen&repo=yanis&theme=tokyonight" />
 </a>
 
+![Les statistiques de charlesen sur github](https://github-readme-stats.vercel.app/api?username=charlesen&show_icons=true&hide=["prs","issues","contribs"])
+
+<p> 
+
+[![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+<img src="https://visitor-badge.glitch.me/badge?page_id=charlesen.visitor-badge"/> 
+</p>
+
 ## Websites
 - Ionic Book : [ionic.mobiletuto.com](http://ionic.mobiletuto.com)
 - Personal Homepage : www.charlesen.fr
