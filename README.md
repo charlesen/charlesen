@@ -1,4 +1,6 @@
-### Bienvenue toi 👋
+### Hi there 👋
+![Photo de profil](profile_picture.jpg)
+My name's Charles, software engineer, Web trainer and Blogger (personal finance, coaching, ...)
 
 <!--
 **charlesen/charlesen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
