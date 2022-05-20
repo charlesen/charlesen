@@ -1,6 +1,5 @@
 ## About me 👋
-![Photo de profil](profile-banner.png)
-I'm Charles, software engineer, Web trainer and Blogger (personal finance, coaching, ...)
+I'm Charles, Manager at Ecole O'clock, graduate software engineer, Web trainer and Blogger (personal finance, coaching, ...)
 
 <!--
 **charlesen/charlesen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
