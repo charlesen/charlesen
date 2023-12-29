@@ -1,12 +1,12 @@
 ## About me 👋
-I'm Charles, Manager at Ecole O'clock, graduate software engineer, Web trainer and Blogger (personal finance, coaching, ...)
+I'm Charles, Entrepreneur, graduate software engineer, Web trainer and Blogger (personal finance, coaching, ...)
 
 <!--
 **charlesen/charlesen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 - 🔭 I’m currently working on web technologies like HTML, CSS, JS, PHP, Symfony and Ionic (for mobile Apps)
-- 🌱 I’m currently learning Frontend and Backend JS Technologies (NodeJS, React, ...)
+- 🌱 I’m currently learning Frontend and Backend JS Technologies (NodeJS, React, ...) and IA for Web development
 - 💬 I blog on personal finance, investing and everything productivity and personal goals (www.pepite.club)
 - 📫 How to reach me: 
    - twitter (charlesen7) : www.twitter.com/charlesen7
