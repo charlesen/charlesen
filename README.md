@@ -1,40 +1,40 @@
-## About me 👋
-I'm Charles, Entrepreneur, graduate software engineer, Web trainer and Blogger (personal finance, coaching, ...)
+# Hello, I'm Charles! 👋
+## 🚀 Freelance Backend Developer | Web, Mobile & AI | Mentor & Trainer
 
 <!--
 **charlesen/charlesen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on web technologies like HTML, CSS, JS, PHP, Symfony and Ionic (for mobile Apps)
-- 🌱 I’m currently learning Frontend and Backend JS Technologies (NodeJS, React, ...) and IA for Web development
-- 💬 I blog on personal finance, investing and everything productivity and personal goals (www.pepite.club)
-- 📫 How to reach me: 
-   - twitter (charlesen7) : www.twitter.com/charlesen7
-   - website : www.charlesen.fr
+Passionné par le développement web & mobile et l’intelligence artificielle, j’aide entreprises et startups à transformer leurs idées en solutions performantes et évolutives. Avec plus de 12 ans d’expérience, je conçois des applications sur mesure et j’intègre l’IA pour optimiser leur efficacité.
 
 ## Tech
-- JS Vanilla + TypeScript + Angular + Ionic
-- PHP Vanilla
-- Symfony
-- Python (:heart: Flask)
+- Langages : Python 🐍 | PHP | JavaScript / TypeScript
+- Frameworks & API : FastAPI ⚡ | Django | Flask | Symfony | Node.js | NextJS
+- Bases de données : MySQL | PostgreSQL | MongoDB
+- IA & Machine Learning : TensorFlow | OpenAI API | Computer Vision
+- Mobile & Frontend : React | Ionic | Turbo Hotwired | Stimulus JS
+- Méthodologie : SCRUM
+- Tests & Documentation : Tests unitaires & fonctionnels | Documentation technique
 
-## My Projects ✨:
+## Projects ✨:
 
-<a href="https://github.com/charlesen/ionic-book">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charlesen&repo=ionic-book&theme=tokyonight" />
-</a>
+### 🧠 Pepite.club
+📚 Résumé de livres non fictionnels en moins de 15 min
 
-<a href="https://github.com/charlesen/duckreact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charlesen&repo=duckreact&theme=tokyonight" />
-</a>
+- Tech : Symfony, Turbo Hotwired, Stimulus JS, AI (OpenAI, TensorFlow, FastAPI)
+- Fonctionnalités IA : Recommandations de contenu, suivi de lecture, quiz interactifs
 
-<a href="https://github.com/charlesen/duckweb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charlesen&repo=duckweb&theme=tokyonight" />
-</a>
+### 🎓 Sysil – Learning Management System (En test actif)
+🛠️ Générateur de modules de formation propulsé par l’IA
 
-<a href="https://github.com/charlesen/yanis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=charlesen&repo=yanis&theme=tokyonight" />
-</a>
+Tech : Symfony, AI (TensorFlow, Keras, LLM)
+Fonctionnalités : Coaching virtuel, suivi des apprenants, quiz, génération de certification
+
+### 🌱 GreenGardians – Computer Vision pour l’environnement
+🗑️ Détection de déchets sauvages via caméras intelligentes
+
+Tech : Python, TensorFlow Lite, Google Colab
+🌍 Démo : [GreenGardians](https://vp.edounze.com/) - [Détecteur](https://vp-server-v2.edounze.com/)
 
 ![Les statistiques de charlesen sur github](https://github-readme-stats.vercel.app/api?username=charlesen&show_icons=true)
 
@@ -44,11 +44,16 @@ I'm Charles, Entrepreneur, graduate software engineer, Web trainer and Blogger (
 <img src="https://visitor-badge.glitch.me/badge?page_id=charlesen.visitor-badge"/> 
 </p>
 
-## Websites
-- Ionic Book : [ionic.mobiletuto.com](http://ionic.mobiletuto.com)
-- Personal Homepage : www.charlesen.fr
-- Personal Finance and coaching : www.pepite.club
-- Expat Coaching : www.dematerre.com
+## 🎤 Mentorat & Formation
+💡 En tant que mentor chez OpenClassrooms et formateur, j’accompagne des développeurs junior ou en devenir sur des notions clés comme :
+✅ Les algorithmes & bases de données
+✅ Les bonnes pratiques PHP/Symfony
+✅ Le développement backend & API
+
+## 📫 Me Contacter
+💼 LinkedIn : [charlesen](https://www.linkedin.com/in/charlesen/)
+🌍 Website : www.charlesen.fr
+🐦 Twitter (X) : [charlesen7](https://x.com/charlesen7)
 
 Hope to hear from you soon
 
