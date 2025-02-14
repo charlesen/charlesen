@@ -16,7 +16,7 @@ Passionné par le développement web & mobile et l’intelligence artificielle, 
 - Méthodologie : SCRUM
 - Tests & Documentation : Tests unitaires & fonctionnels | Documentation technique
 
-## Projets ✨:
+## Projets
 
 ⚠️ La plupart de mes projets sont au statut privé et donc pas visible sur mon espace Github public (pour des raisons évidentes de confidentialité, mais je serai ravi d'en discuter de vive voix avec vous).
 
@@ -46,7 +46,7 @@ Passionné par le développement web & mobile et l’intelligence artificielle, 
 <img src="https://visitor-badge.glitch.me/badge?page_id=charlesen.visitor-badge"/> 
 </p>
 
-## 🎤 Mentorat & Formation
+## Mentorat & Formation
 💡 En tant que mentor chez OpenClassrooms et formateur, j’accompagne des développeurs junior ou en devenir sur des notions clés comme :
 
 ✅ Les algorithmes & bases de données
@@ -55,7 +55,7 @@ Passionné par le développement web & mobile et l’intelligence artificielle, 
 
 ✅ Le développement backend & API
 
-## 📫 Me contacter
+## Me contacter
 
 💼 LinkedIn : [charlesen](https://www.linkedin.com/in/charlesen/)
 
