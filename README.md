@@ -18,7 +18,7 @@ Passionné par le développement web & mobile et l’intelligence artificielle, 
 
 ## Projets
 
-⚠️ La plupart de mes projets sont au statut privé et donc pas visible sur mon espace Github public (pour des raisons évidentes de confidentialité, mais je serai ravi d'en discuter de vive voix avec vous).
+⚠️ La plupart de mes projets sont au statut _Private_ et ne sont donc pas visibles sur mon espace Github public (pour des raisons évidentes de confidentialité, mais je serais ravi d'en discuter de vive voix avec vous).
 
 ### 🧠 [Pepite.club](www.pepite.club)
 📚 Résumé de livres non fictionnels en moins de 15 min
