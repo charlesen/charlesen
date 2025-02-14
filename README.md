@@ -18,13 +18,15 @@ Passionné par le développement web & mobile et l’intelligence artificielle, 
 
 ## Projects ✨:
 
-### 🧠 Pepite.club
+⚠️ La plupart de mes projets sont au statut privé et donc pas visible sur mon espace Github public (pour des raisons évidentes de confidentialité, mais je serai ravi d'en discuter de vive voix avec vous).
+
+### 🧠 [Pepite.club](www.pepite.club)
 📚 Résumé de livres non fictionnels en moins de 15 min
 
 - Tech : Symfony, Turbo Hotwired, Stimulus JS, AI (OpenAI, TensorFlow, FastAPI)
 - Fonctionnalités IA : Recommandations de contenu, suivi de lecture, quiz interactifs
 
-### 🎓 Sysil – Learning Management System (En test actif)
+### 🎓 Sysil – Learning Management System (En phase de test actif)
 🛠️ Générateur de modules de formation propulsé par l’IA
 
 - Tech : Symfony, AI (TensorFlow, Keras, LLM)
