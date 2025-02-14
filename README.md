@@ -16,7 +16,7 @@ Passionné par le développement web & mobile et l’intelligence artificielle, 
 - Méthodologie : SCRUM
 - Tests & Documentation : Tests unitaires & fonctionnels | Documentation technique
 
-## Projects ✨:
+## Projets ✨:
 
 ⚠️ La plupart de mes projets sont au statut privé et donc pas visible sur mon espace Github public (pour des raisons évidentes de confidentialité, mais je serai ravi d'en discuter de vive voix avec vous).
 
@@ -55,7 +55,7 @@ Passionné par le développement web & mobile et l’intelligence artificielle, 
 
 ✅ Le développement backend & API
 
-## 📫 Me Contacter
+## 📫 Me contacter
 
 💼 LinkedIn : [charlesen](https://www.linkedin.com/in/charlesen/)
 
