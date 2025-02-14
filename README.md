@@ -5,7 +5,7 @@
 **charlesen/charlesen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Ingénieur de formation (Télécoms / Systèmes embarqués) et passionné par le développement web & mobile et l’intelligence artificielle, j’aide entreprises et startups à transformer leurs idées en solutions performantes et évolutives. Avec plus de 12 ans d’expérience, je conçois des applications sur mesure et j’intègre l’IA pour optimiser leur efficacité.
+Ingénieur de formation (Télécoms / Systèmes embarqués) et passionné par le développement web, mobile et l’intelligence artificielle, j’aide entreprises et startups à transformer leurs idées en solutions performantes et évolutives. Avec plus de 12 ans d’expérience, je conçois des applications sur mesure et j’intègre l’IA pour optimiser leur efficacité.
 
 ## Tech
 - Langages : Python 🐍 | PHP | JavaScript / TypeScript
