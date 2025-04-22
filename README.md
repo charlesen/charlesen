@@ -41,11 +41,6 @@ Ingénieur de formation (Télécoms / Systèmes embarqués) et passionné par le
 
 ![Les statistiques de charlesen sur github](https://github-readme-stats.vercel.app/api?username=charlesen&show_icons=true)
 
-<p> 
-[![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-<img src="https://visitor-badge.glitch.me/badge?page_id=charlesen.visitor-badge"/> 
-</p>
-
 ## Mentorat & Formation
 💡 En tant que mentor chez OpenClassrooms et formateur, j’accompagne des développeurs junior ou en devenir sur des notions clés comme :
 
