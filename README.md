@@ -8,10 +8,10 @@
 Ingénieur de formation (Télécoms / Systèmes embarqués) et passionné par le développement web, mobile et l’intelligence artificielle, j’aide les entreprises et les startups à transformer leurs idées en solutions performantes et évolutives. Avec plus de 12 ans d’expérience, je conçois des applications sur mesure et j’intègre l’IA pour optimiser leur efficacité.
 
 ## Tech
-- Langages : Python 🐍 | PHP | JavaScript / TypeScript
-- Frameworks & API : FastAPI ⚡ | Django | Flask | Symfony | Node.js | NextJS
+- Langages : PHP | Python 🐍 | JavaScript / TypeScript
+- Frameworks & API : Symfony | FastAPI ⚡ | Django | Flask | Node.js | NextJS
 - Bases de données : MySQL | PostgreSQL | MongoDB
-- IA & Machine Learning : TensorFlow | OpenAI API | Computer Vision
+- IA & Machine Learning : TensorFlow | Ollama | Symfony AI
 - Mobile & Frontend : React | Ionic | Turbo Hotwired | Stimulus JS
 - Méthodologie : SCRUM
 - Tests & Documentation : Tests unitaires & fonctionnels | Documentation technique
@@ -19,6 +19,29 @@ Ingénieur de formation (Télécoms / Systèmes embarqués) et passionné par le
 ## Projets
 
 ⚠️ La plupart de mes projets sont au statut _Private_ et ne sont donc pas visibles dans mon espace Github public (pour des raisons évidentes de confidentialité, mais je serais ravi d'en discuter de vive voix avec vous).
+
+### 🧠 [Flouzy.app](www.flouzy.app)
+📚 L'app qui transforme la gestion financière en un jeu d'enfant
+
+*Tech*
+- Symfony et Symfony AI
+- LiveComponent
+- Ollama (AgentManager, Tools, RAG),
+- Mercure
+- Redis
+- RabbitMq
+- Meilisearch
+
+*Fonctionnalités clés*
+- Budget mensuel avec suivi revenus/dépenses
+- Objectifs financiers avec progression visuelle et analyses prédictives
+- Partage de budget (couples, familles)
+- Coach IA personnalisé
+- Système XP & Niveaux (50+ paliers)
+- Badges & Achievements (rareté: common → legendary)
+- Challenges 1v1 entre amis
+- Squads pour défis collectifs
+- Streaks quotidiens avec bonus
 
 ### 🧠 [Pepite.club](www.pepite.club)
 📚 Résumé de livres non fictionnels en moins de 15 min
