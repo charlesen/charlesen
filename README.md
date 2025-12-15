@@ -20,8 +20,9 @@ Ingénieur de formation (Télécoms / Systèmes embarqués) et passionné par le
 
 ⚠️ La plupart de mes projets sont au statut _Private_ et ne sont donc pas visibles dans mon espace Github public (pour des raisons évidentes de confidentialité, mais je serais ravi d'en discuter de vive voix avec vous).
 
-### 🧠 [Flouzy.app](www.flouzy.app)
-📚 L'app qui transforme la gestion financière en un jeu d'enfant
+### 💰 [Flouzy.app](www.flouzy.app)
+
+L'app qui transforme la gestion financière en un jeu d'enfant
 
 *Tech*
 - Symfony et Symfony AI
@@ -43,17 +44,19 @@ Ingénieur de formation (Télécoms / Systèmes embarqués) et passionné par le
 - Squads pour défis collectifs
 - Streaks quotidiens avec bonus
 
-### 🧠 [Pepite.club](www.pepite.club)
-📚 Résumé de livres non fictionnels en moins de 15 min
+### 📚 [Pepite.club](www.pepite.club)
+
+Résumé de livres non fictionnels en moins de 15 min
 
 - Tech : Symfony, Turbo Hotwired, Stimulus JS, AI (OpenAI, TensorFlow, FastAPI)
 - Fonctionnalités IA : Recommandations de contenu, suivi de lecture, quiz interactifs
 
-### 🎓 Sysil – Learning Management System (En phase de test actif)
-🛠️ Générateur de modules de formation propulsé par l’IA
+### 🎓 SySiL – Symfony Simple Learning management system
 
-- Tech : Symfony, AI (TensorFlow, Keras, LLM)
-- Fonctionnalités : Coaching virtuel, suivi des apprenants, quiz, génération de certification
+LMS propulsé par l’IA (actuellement mis en place pour une association. Deploiement opensource à venir)
+
+- Tech : Symfony, Symfony AI, Ollama
+- Fonctionnalités : Parcours de formations (Cours, Modules, leçons, prise notes, évaluation), Coaching virtuel, suivi des apprenants, quiz, génération de certification
 
 ### 🌱 GreenGardians – Computer Vision pour l’environnement
 
